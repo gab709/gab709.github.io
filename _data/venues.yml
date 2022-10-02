@@ -4,3 +4,9 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Poster":
+  color: "#7cff73"
+
+"Workshop":
+  color: "#4599ff"
