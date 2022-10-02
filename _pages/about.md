@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.mpi-sws.org'>MPI-SWS</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.mpi-sws.org'>MPI-SWS</a>.
 
 profile:
   align: right
