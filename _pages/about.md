@@ -7,7 +7,7 @@ subtitle: Ph.D Student @ <a href='https://www.mpi-sws.org'>MPI-SWS</a>.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Room 416, E1 5</p>
     <p>MPI-SWS</p>
