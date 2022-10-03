@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 416, E1 5</p>
+    <p>Room 516, E1 5</p>
     <p>MPI-SWS</p>
     <p>Saarbrücken, 66123</p>
 
