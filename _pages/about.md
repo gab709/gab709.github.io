@@ -24,4 +24,6 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-Description 1
+I’m a Ph.D. student at the <a href="https://www.mpi-sws.org">Max Planck Institute for Software Systems (MPI-SWS)</a> under the <a href="https://www.cis.mpg.de/cs-max-planck/">CS@max planck</a> program. I am advised by <a href="https://people.mpi-sws.org/~gummadi/">Krishna Gummadi</a> and I am working with <a href="https://www.cs.cmu.edu/~mktoneva/">Mariya Toneva</a> in the Bridging AI and Neuroscience Group (BrAIN). My research interests lie at the intersection between Machine Learning and Neuroscience. The goal is to investigate and develop brain-inspired machine learning systems as well as gain a better understanding of how the brain processes information using machine learning methods.
+
+I received my Bachelor's Degree in Computer Science from the University of Cagliari and my Master's Degree in Computer Science from the University of Pisa.
