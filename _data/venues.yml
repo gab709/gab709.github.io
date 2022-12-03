@@ -5,8 +5,11 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Poster":
+"STAGG19 Poster":
   color: "#ff7a45"
 
-"Workshop":
+"ICIAP22 Workshop":
   color: "#4599ff"
+
+"Preprint":
+  color: "#9b9b9b"
