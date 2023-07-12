@@ -2,7 +2,7 @@
 layout: page
 title: APMA Agorà
 description: 
-img:
+img: assets/img/apma_logo.png
 importance: 4
 category: Initiatives
 ---
