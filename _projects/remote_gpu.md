@@ -2,7 +2,7 @@
 layout: page
 title: Remote GPUs monitor
 description: Remote GPUs Monitor is a Visual Studio Code extension designed to help monitor GPUs on remote servers.
-img:
+img:assets/img/remote_gpu.png
 importance: 4
 category: University Projects and Tools
 ---
