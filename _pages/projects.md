@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Extra
-permalink: /extra/
+title: Extras
+permalink: /extras/
 description: Personal projects and extras
 nav: true
 nav_order: 2
