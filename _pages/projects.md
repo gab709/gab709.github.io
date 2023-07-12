@@ -2,7 +2,7 @@
 layout: page
 title: Extra
 permalink: /extra/
-description: A growing collection of your cool projects.
+description: Personal projects and extras
 nav: true
 nav_order: 2
 display_categories: [Univerity Projects and Tools, Initiatives, Fun]
