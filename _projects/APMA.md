@@ -6,9 +6,13 @@ img:
 importance: 4
 category: Initiatives
 ---
+<a href="https://apmaagora.wordpress.com">Website</a>
+<a href="https://www.instagram.com/apma_agora/">Instagram</a>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Articles:
+<ul>
+  <li><a href="https://iismarianoquartodarborea.edupa.it/index.php/2-non-categorizzato/1780-apma">https://iismarianoquartodarborea.edupa.it/index.php/2-non-categorizzato/1780-apma</a></li>
+  <li><a href="https://www.arborense.it/incontri/1403-vanessa-zanda-e-gabriele-merlin-giovani-tutor-per-giovani-studenti.html">https://www.arborense.it/incontri/1403-vanessa-zanda-e-gabriele-merlin-giovani-tutor-per-giovani-studenti.html</a></li>
+  <li><a href="https://www.arborense.it/incontri/1370-graziano-pinna-neuroscienziato-che-ha-a-cuore-i-giovani.html">https://www.arborense.it/incontri/1370-graziano-pinna-neuroscienziato-che-ha-a-cuore-i-giovani.html</a></li>
+</ul>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
