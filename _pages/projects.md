@@ -5,7 +5,7 @@ permalink: /extra/
 description: Personal projects and extras
 nav: true
 nav_order: 2
-display_categories: [Univerity Projects and Tools, Initiatives, Fun]
+display_categories: [University Projects and Tools, Initiatives, Fun]
 horizontal: false
 ---
 
