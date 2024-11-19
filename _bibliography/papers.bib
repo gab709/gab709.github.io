@@ -14,26 +14,25 @@
   organization={PMLR}
 }
 
-@misc{merlinlanguage,
-  doi = {10.48550/ARXIV.2212.00596},
-  
-  url = {https://arxiv.org/abs/2212.00596},
-  
-  author = {Merlin, Gabriele and Toneva, Mariya},
-  
-  keywords = {Computation and Language (cs.CL), Neurons and Cognition (q-bio.NC), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Biological sciences, FOS: Biological sciences},
-  
-  title = {Language models and brain alignment: beyond word-level semantics and prediction},
-  abstract="Pretrained language models that have been trained to predict the next word over billions of text documents have been shown to also significantly predict brain recordings of people comprehending language. Understanding the reasons behind the observed similarities between language in machines and language in the brain can lead to more insight into both systems. Recent works suggest that the prediction of the next word is a key mechanism that contributes to the alignment between the two. What is not yet understood is whether prediction of the next word is necessary for this observed alignment or simply sufficient, and whether there are other shared mechanisms or information that is similarly important. In this work, we take a first step towards a better understanding via two simple perturbations in a popular pretrained language model. The first perturbation is to improve the model's ability to predict the next word in the specific naturalistic stimulus text that the brain recordings correspond to. We show that this indeed improves the alignment with the brain recordings. However, this improved alignment may also be due to any improved word-level or multi-word level semantics for the specific world that is described by the stimulus narrative. We aim to disentangle the contribution of next word prediction and semantic knowledge via our second perturbation: scrambling the word order at inference time, which reduces the ability to predict the next word, but maintains any newly learned word-level semantics. By comparing the alignment with brain recordings of these differently perturbed models, we show that improvements in alignment with brain recordings are due to more than improvements in next word prediction and word-level semantics.",
-  publisher = {arXiv},
-  selected={true},
-  year = {2022},
-  bibtex_show={true},
-  abbr={Preprint},
-  html={https://arxiv.org/abs/2212.00596},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@inproceedings{merlin-toneva-2024-language,
+    title = "Language models and brains align due to more than next-word prediction and word-level information",
+    author = "Merlin, Gabriele  and
+      Toneva, Mariya",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = {2024},
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.1024",
+    pages = "18431--18454",
+    abstract = "Pretrained language models have been shown to significantly predict brain recordings of people comprehending language. Recent work suggests that the prediction of the next word is a key mechanism that contributes to this alignment. What is not yet understood is whether prediction of the next word is necessary for this observed alignment or simply sufficient, and whether there are other shared mechanisms or information that are similarly important. In this work, we take a step towards understanding the reasons for brain alignment via two simple perturbations in popular pretrained language models. These perturbations help us design contrasts that can control for different types of information. By contrasting the brain alignment of these differently perturbed models, we show that improvements in alignment with brain recordings are due to more than improvements in next-word prediction and word-level information.",
+    bibtex_show={true},
+    abbr={EMNLP24},
+    html={https://aclanthology.org/2024.emnlp-main.1024/},
 }
-
 
 @InProceedings{merlinpractical,
 author="Merlin, Gabriele
