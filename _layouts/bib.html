@@ -20,6 +20,9 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+        {%- if entry.annotation -%}
+          <abbr class="badge" style="background-color:#e5b014; margin-top: 5px;">{{entry.annotation}}</abbr>
+        {%- endif -%}
         </div>
 
         <!-- Entry bib key -->
